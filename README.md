@@ -22,5 +22,5 @@
 
 
 <p>
- &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmRana2004x&theme=dark" alt="OmRana2004" />
+ &nbsp; &nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmRana2004&theme=dark" alt="OmRana2004" />
 </p>
